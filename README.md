@@ -1,9 +1,49 @@
-<img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg"/>
+# Hi, I'm Ankith
+<img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg" alt="ankith"/>
 
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/php-260f56.svg?style=for-the-badge&logo=php&logoColor=260f56&labelColor=ffffff" alt="php"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/JS-06428c.svg?style=for-the-badge&logo=javascript&logoColor=06428c&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=6566ba&labelColor=ffffff" alt="java"></a>
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
 
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/mysql-18085c.svg?style=for-the-badge&logo=mysql&logoColor=black&labelColor=white" alt="mysql"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+
+<a href="https://github.com/ankithg03">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
+<a href="https://github.com/ankithg03">
+<img src="https://img.shields.io/badge/php%20storm-270840.svg?style=for-the-badge&logo=phpstorm&labelColor=ffffff&logoColor=270840" alt="php-storm">
+</a>
+<a href="https://github.com/ankithg03">
+<img src="https://img.shields.io/badge/pycharm-6000ab.svg?style=for-the-badge&logo=pycharm&labelColor=ffffff&logoColor=6000ab" alt="pycharm">
+</a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/vim-darkblue.svg?style=for-the-badge&logo=vim&logoColor=darkblue&labelColor=ffffff" alt="vim">
+</a>
+
+<a href="https://github.com/ankithg03">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+</a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+
+<p>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+
+</p><br>
+
+<p>
+
+[![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
 ```javascript
 const aboutMe = {
@@ -27,11 +67,7 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-</br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [ankithg04](https://github.com/ankithg04)
