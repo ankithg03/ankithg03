@@ -14,7 +14,7 @@
 		    height: 400px;
 		    /* background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7); */
 		    background: linear-gradient(45deg, #09184c, #0085ea);
-		    background: url("https://raw.githubusercontent.com/ankithg03/ankithg03/main/bg.jpg");
+		    background: url("bg.jpg");
 		    background-size: cover;
 		    border-radius: 8px;
 		    /* color: white; */
