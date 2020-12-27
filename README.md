@@ -45,7 +45,7 @@
 
 <p>
 
-[![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
 
 ```javascript
 const aboutMe = {
