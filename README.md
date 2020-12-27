@@ -1,4 +1,4 @@
-<img src="https://github.com/ankithg03/ankithg03/blob/svg.svg"/>
+<img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg"/>
 
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
