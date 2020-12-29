@@ -91,6 +91,7 @@ const aboutMe = {
 </a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/vim-darkblue.svg?style=for-the-badge&logo=vim&logoColor=darkblue&labelColor=ffffff" alt="vim">
 </a>
+
 <br>
 <a href="https://github.com/ankithg03">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
