@@ -33,7 +33,7 @@ const aboutMe = {
          python: ["Django", "flask"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "SQLite"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android"]
    },
    currentOccupation: ["A Software Developer who aspire to be a stable version but end up to be a beta version"],
    challenge: "A developer who can be a has knowledge to help others.",
