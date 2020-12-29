@@ -41,13 +41,12 @@ const aboutMe = {
 ```
 [![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
 
-<br>
-
 <a href="https://github.com/ankithg03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithg03&theme=light&hide_langs_below=1" />
 </a>
-<br>
 
+<br>
+<br>
 <a href="https://github.com/ankithg03/api-mvc">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=api-mvc&theme=light" />
 
