@@ -1,4 +1,5 @@
-# Hi, I'm Ankith
+### Hi👋 there,
+
 <img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg" alt="ankith"/>
 
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
@@ -29,7 +30,6 @@
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/vim-darkblue.svg?style=for-the-badge&logo=vim&logoColor=darkblue&labelColor=ffffff" alt="vim">
 </a>
 
-<br>
 <a href="https://github.com/ankithg03">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
@@ -37,13 +37,9 @@
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows">
 </a>
 
-<p>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
-</p><br>
-
-<p>
 
 [![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
 
