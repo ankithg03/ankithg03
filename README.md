@@ -2,6 +2,36 @@
 
 <img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg" alt="ankith"/>
 
+I'm Ankith G, also known as Ank, A Software Developer who thinks programming language is just a way to communicate with the device, regardless of any programming language it can be, what do you think about it?
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Php, Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Swift, Scss, Less, ],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"],
+         php: ["Magento", "Symfony", "Laravel"],
+         python: ["Django", "flask"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer", "SQLite"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["A Software Developer who aspire to be a stable version but end up to be a beta version"],
+   challenge: "A developer who can be a has knowledge to help others.",
+};
+```
+[![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
+
+
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/php-260f56.svg?style=for-the-badge&logo=php&logoColor=260f56&labelColor=ffffff" alt="php"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
@@ -40,32 +70,5 @@
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
-
-[![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
-
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
-
 ---
-
-⭐️ From [ankithg04](https://github.com/ankithg04)
+⭐️ From [ankithg03](https://github.com/ankithg03)
