@@ -61,6 +61,7 @@ const aboutMe = {
 <a href="https://github.com/ankithg03/codilar-instagram-feed">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=codilar-instagram-feed&theme=light" />
 </a>
+<br>
 
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/php-260f56.svg?style=for-the-badge&logo=php&logoColor=260f56&labelColor=ffffff" alt="php"></a>
