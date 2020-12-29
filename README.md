@@ -2,9 +2,19 @@
 
 <img src="https://github.com/ankithg03/ankithg03/blob/main/blob/ank.svg" alt="ankith"/>
 
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-AnkithG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankith-g-028373140/)
+[![Telegram](https://img.shields.io/badge/-@ankithg03-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ankithg03)
+[![HackerRank](https://img.shields.io/badge/-ankithg03-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ankithg03)
+[![Instagram](https://img.shields.io/badge/-Ankith_G-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iam_ank_)
+[![Gmail](https://img.shields.io/badge/-ankithg03-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankithg03@gmail.com)
+
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=ankithg03&style=flat)
+
 I'm Ankith G, also known as Ank, A Software Developer who thinks programming language is just a way to communicate with the device, regardless of any programming language it can be, what do you think about it?
 
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -31,6 +41,26 @@ const aboutMe = {
 ```
 [![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
 
+<a href="https://github.com/ankithg03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithg03&theme=light&hide_langs_below=1" />
+</a>
+<br>
+
+<a href="https://github.com/ankithg03/api-mvc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=api-mvc&theme=light" />
+
+</a>
+<a href="https://github.com/ankithg03/redux-react">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=redux-react&theme=light" />
+</a>
+<br>
+<a href="https://github.com/ankithg03/zomato-api">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=zomato-api&theme=light" />
+</a>
+
+<a href="https://github.com/ankithg03/codilar-instagram-feed">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankithg03&repo=codilar-instagram-feed&theme=light" />
+</a>
 
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/php-260f56.svg?style=for-the-badge&logo=php&logoColor=260f56&labelColor=ffffff" alt="php"></a>
