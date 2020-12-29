@@ -91,7 +91,7 @@ const aboutMe = {
 </a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/vim-darkblue.svg?style=for-the-badge&logo=vim&logoColor=darkblue&labelColor=ffffff" alt="vim">
 </a>
-
+<br>
 <a href="https://github.com/ankithg03">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
@@ -101,6 +101,7 @@ const aboutMe = {
 
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/bitbucket-037ad9.svg?style=for-the-badge&logo=bitbucket&logoColor=037ad9&labelColor=ffffff" alt="bitbucket"></a>
+<a href="https://github.com/ankithg03"><img src="https://img.shields.io/badge/gitlab-e2432a.svg?style=for-the-badge&logo=gitlab&logoColor=e2432a&labelColor=ffffff" alt="bitbucket"></a>
 ---
 ⭐️ From [ankithg03](https://github.com/ankithg03)
