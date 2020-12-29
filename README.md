@@ -18,7 +18,7 @@ I'm Ankith G, also known as Ank, A Software Developer who thinks programming lan
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Php, Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Swift, Scss, Less, ],
+   code: [Php, Javascript, KnockoutJS, HTML, CSS, Python, Java, CSharp, Swift, Scss, Less, ],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -26,17 +26,18 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express"],
+         js: ["Node"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"],
+         misc: ["Bash", "Puppeteer", "Cypress"],
          php: ["Magento", "Symfony", "Laravel"],
          python: ["Django", "flask"]
       },
+      api: ["Rest", "GraphQl"]
       databases: ["MongoDB", "mySQL", "SQLServer", "SQLite"],
       mobile: ["Android"]
    },
    currentOccupation: ["A Software Developer who aspire to be a stable version but end up to be a beta version"],
-   challenge: "A developer who can be a has knowledge to help others.",
+   challenge: "A developer who wants to have knowledge to help others through programming.",
 };
 ```
 [![Ankith G GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithg03&show_icons=true&count_private=true)](https://github.com/ankithg03)
